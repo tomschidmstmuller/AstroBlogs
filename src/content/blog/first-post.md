@@ -5,8 +5,8 @@ pubDate: 'Jul 07 2026'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 
-What i would do for a minecraft modpacks
-Vulkan Performance:
+### What i would do for a minecraft modpacks
+## Vulkan Performance:
     1.AppleSkin by squeek502 
     2.Armour Durability by spunkyinsaan 
     3.Brightness Plus by spunkyinsaan 
